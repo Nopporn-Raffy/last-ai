@@ -10,3 +10,4 @@ gunicorn
 dlib
 opencv-python
 opencv-python-headless
+opencv-contrib-python-headless
